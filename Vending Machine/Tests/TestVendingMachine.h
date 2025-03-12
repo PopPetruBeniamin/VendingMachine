@@ -1,0 +1,8 @@
+//
+// Created by Usuario on 13/05/2024.
+//
+
+#ifndef LAB_9_10_FINAL_FINAL_TESTVENDINGMACHINE_H
+#define LAB_9_10_FINAL_FINAL_TESTVENDINGMACHINE_H
+void myTestsVendingMachine();
+#endif //LAB_9_10_FINAL_FINAL_TESTVENDINGMACHINE_H
